@@ -54,7 +54,7 @@ class RandomWordsState extends State<RandomWords> {
               tiles: tiles,
             )
             .toList();
-          return Scaffold(         // Add 6 lines from here...
+          return Scaffold(
             appBar: AppBar(
               title: Text('Saved Suggestions'),
             ),
